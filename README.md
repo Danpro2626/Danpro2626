@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 ```typescript
 const daniel = {
@@ -31,7 +31,7 @@ Soy un desarrollador full-stack apasionado por crear soluciones digitales funcio
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 <div align="center">
 
@@ -67,18 +67,18 @@ Soy un desarrollador full-stack apasionado por crear soluciones digitales funcio
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
-### 🔒 NeoCity Shield — Aplicativo Web de Seguridad Física
+### NeoCity Shield — Aplicativo Web de Seguridad Física
 > **Proyecto de Grado · Evidencia Digital S.A.S. · 2026 – Presente**
 
 Aplicación web full-stack para el **reporte y gestión de incidentes de seguridad física**, desarrollada en colaboración con Evidencia Digital S.A.S. como proyecto de grado de Ingeniería de Sistemas.
 
 | Capa | Tecnología | Plataforma |
 |------|-----------|------------|
-| 🖥️ Frontend | React | Vercel |
-| ⚙️ Backend | Node.js + Express | Railway |
-| 🗄️ Base de datos | PostgreSQL | Railway |
+| Frontend | React | Vercel |
+| Backend | Node.js + Express | Railway |
+| Base de datos | PostgreSQL | Railway |
 
 **Highlights:**
 - ✅ Proyecto **en producción** con ambos entornos conectados
@@ -100,28 +100,28 @@ Análisis de requerimientos → Diseño → Implementación → Pruebas → Entr
 
 ---
 
-### ♿ Mapa Interactivo de Accesibilidad — Campus El Bosque
+### Mapa Interactivo de Accesibilidad — Campus El Bosque
 > **Modelos y Simulación de Sistemas · Universidad El Bosque · 2025-2**
 
 Mapa interactivo del campus universitario orientado a **personas en situación de discapacidad**, mejorando la experiencia de navegación dentro del campus.
 
 ---
 
-### 🏢 Formularios Digitales — Fundación Los Pisingos
+### Formularios Digitales — Fundación Los Pisingos
 > **Labor Social · Universidad El Bosque · 2025-2**
 
 Diseño e implementación de formularios digitales de vacaciones y permisos para el área de **Gestión Humana**, integrados directamente con Excel para optimizar procesos internos.
 
 ---
 
-### 🔐 Prototipo — Sistema de Seguridad Institucional
+### Prototipo — Sistema de Seguridad Institucional
 > **Seminario de Investigación · Universidad El Bosque · 2025**
 
 Prototipo de sistema de seguridad institucional para la Universidad El Bosque, con investigación aplicada: levantamiento de requerimientos y diseño de solución integral.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -141,11 +141,11 @@ Prototipo de sistema de seguridad institucional para la Universidad El Bosque, c
 
 ---
 
-## 💡 Habilidades Blandas
+## Habilidades Blandas
 
 <div align="center">
 
-| 🤝 Trabajo en Equipo | 🧩 Resolución de Problemas | 🔄 Adaptabilidad | 🗣️ Comunicación Técnica |
+| Trabajo en Equipo | Resolución de Problemas | Adaptabilidad | Comunicación Técnica |
 |:---:|:---:|:---:|:---:|
 | Colaboro activamente en entornos ágiles | Enfoque analítico y orientado a soluciones | Me adapto rápido a nuevas tecnologías | Transmito ideas técnicas con claridad |
 
@@ -153,7 +153,7 @@ Prototipo de sistema de seguridad institucional para la Universidad El Bosque, c
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 <div align="center">
 
@@ -161,11 +161,11 @@ Prototipo de sistema de seguridad institucional para la Universidad El Bosque, c
 
 | Canal | Info |
 |-------|------|
-| 📧 Email personal | danielfelipemorenonunez294@gmail.com |
-| 📧 Email universitario | dmorenon@unbosque.edu.co |
-| 📱 Teléfono | 305 707 2352 |
-| 💼 LinkedIn | [linkedin.com/in/danielmorenonu](https://linkedin.com/in/danielmorenonu) |
-| 📍 Ubicación | Bogotá, Colombia |
+| Email personal | danielfelipemorenonunez294@gmail.com |
+| Email universitario | dmorenon@unbosque.edu.co |
+| Teléfono | 305 707 2352 |
+| LinkedIn | [linkedin.com/in/danielmorenonu](https://linkedin.com/in/danielmorenonu) |
+| Ubicación | Bogotá, Colombia |
 
 </div>
 
