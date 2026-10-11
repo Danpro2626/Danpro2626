@@ -138,9 +138,19 @@ Prototipo de sistema de seguridad institucional para la Universidad El Bosque. I
 
 <div align="center">
 
+**Perfil personal — Danpro2626**
+
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Danpro2626&show_icons=true&bg_color=0f2044&title_color=FFD700&icon_color=FFD700&text_color=a8c0e0&border_color=1e3a6e&hide_border=false&rank_icon=github"/>
 &nbsp;&nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danpro2626&layout=compact&bg_color=0f2044&title_color=FFD700&text_color=a8c0e0&border_color=1e3a6e"/>
+
+<br/><br/>
+
+**Proyecto de Grado — neocityshield-jpg**
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=neocityshield-jpg&show_icons=true&bg_color=0f2044&title_color=FFD700&icon_color=FFD700&text_color=a8c0e0&border_color=1e3a6e&hide_border=false&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neocityshield-jpg&layout=compact&bg_color=0f2044&title_color=FFD700&text_color=a8c0e0&border_color=1e3a6e"/>
 
 </div>
 
