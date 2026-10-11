@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danielmorenonu-0f2044?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/danielmorenonu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danpro2626-0f2044?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/Danpro2626)
 [![Gmail](https://img.shields.io/badge/Gmail-danielfelipemorenonunez294-0f2044?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:danielfelipemorenonunez294@gmail.com)
 [![Universidad](https://img.shields.io/badge/Universidad%20El%20Bosque-Ingeniería%20de%20Sistemas-0f2044?style=for-the-badge&logo=academia&logoColor=FFD700)](mailto:dmorenon@unbosque.edu.co)
 [![Bogotá](https://img.shields.io/badge/Bogotá-Colombia-0f2044?style=for-the-badge&logoColor=FFD700)](https://maps.google.com/?q=Bogota,Colombia)
@@ -138,9 +138,9 @@ Prototipo de sistema de seguridad institucional para la Universidad El Bosque. I
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=danielmorenonu&show_icons=true&bg_color=0f2044&title_color=FFD700&icon_color=FFD700&text_color=a8c0e0&border_color=1e3a6e&hide_border=false&rank_icon=github"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Danpro2626&show_icons=true&bg_color=0f2044&title_color=FFD700&icon_color=FFD700&text_color=a8c0e0&border_color=1e3a6e&hide_border=false&rank_icon=github"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmorenonu&layout=compact&bg_color=0f2044&title_color=FFD700&text_color=a8c0e0&border_color=1e3a6e"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danpro2626&layout=compact&bg_color=0f2044&title_color=FFD700&text_color=a8c0e0&border_color=1e3a6e"/>
 
 </div>
 
@@ -168,7 +168,7 @@ Prototipo de sistema de seguridad institucional para la Universidad El Bosque. I
 | Correo personal | danielfelipemorenonunez294@gmail.com |
 | Correo universitario | dmorenon@unbosque.edu.co |
 | Teléfono | 305 707 2352 |
-| LinkedIn | [linkedin.com/in/danielmorenonu](https://linkedin.com/in/danielmorenonu) |
+| LinkedIn | [linkedin.com/in/Danpro2626](https://linkedin.com/in/Danpro2626) |
 | Ubicación | Bogotá, Colombia |
 
 </div>
@@ -185,6 +185,6 @@ Prototipo de sistema de seguridad institucional para la Universidad El Bosque. I
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=danielmorenonu&color=0f2044&style=for-the-badge&label=Visitas+al+perfil)
+![Profile views](https://komarev.com/ghpvc/?username=Danpro2626&color=0f2044&style=for-the-badge&label=Visitas+al+perfil)
 
 </div>
