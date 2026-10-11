@@ -81,10 +81,10 @@ Aplicación web full-stack para el **reporte y gestión de incidentes de segurid
 | Base de datos | PostgreSQL | Railway |
 
 **Highlights:**
-- ✅ Proyecto **en producción** con ambos entornos conectados
-- ✅ Arquitectura relacional completa en PostgreSQL
-- ✅ Despliegue CI/CD automatizado
-- ✅ Interfaz centrada en usabilidad y experiencia del operador
+- Proyecto **en producción** con ambos entornos conectados
+- Arquitectura relacional completa en PostgreSQL
+- Despliegue CI/CD automatizado
+- Interfaz centrada en usabilidad y experiencia del operador
 
 ---
 
