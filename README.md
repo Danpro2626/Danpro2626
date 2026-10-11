@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c0272d&height=200&section=header&text=Daniel%20Felipe%20Moreno%20Nuñez&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Systems%20Engineering%20Student&descAlignY=58&descSize=16" width="100%"/>
+<img src="header.svg" width="100%"/>
 
 <br/>
 
